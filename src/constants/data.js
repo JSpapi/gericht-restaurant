@@ -9,7 +9,7 @@ const wines = [
 	{
 	  title: 'Catena Malbee',
 	  price: '$59',
-	  tags: 'AU | Bottle',
+	  tags: 'AR | Bottle',
 	},
 	{
 	  title: 'La Vieillw Rose',
@@ -79,4 +79,4 @@ const wines = [
 	},
  ];
 
- export {wines, cocktails, awards};
+ export default {wines, cocktails, awards};
