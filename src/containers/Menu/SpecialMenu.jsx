@@ -22,7 +22,7 @@ function SpecialMenu() {
                 price={price} 
                 tags={tags}
               />
-
+              
             ))}
           </div>
         </div>
