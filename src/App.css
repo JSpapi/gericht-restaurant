@@ -53,7 +53,7 @@
 }
 
 .custom__btn{
-  background: var(--color-crimson);
+  background: var(--color-golden);
   color: var(--color-black);
   font-family: var(--font-base);
   font-weight: 700;
